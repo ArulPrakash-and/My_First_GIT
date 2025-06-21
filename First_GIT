@@ -8,4 +8,9 @@ User configuration "COMMANDS":
 
 VScode to github interface COMMANDS:
 open vscode Terminal
-=>git clone 
+=>git clone "https://github.com/ArulPrakash-and/My_First_GIT/edit/main/First_GIT"   #git link what you use
+=>cd My_First_GIT             #folder name is myfirstGIT
+Create files and add to Respository:
+=>git add test.txt                           #adding a new file
+=>git status                                 #to know the status 
+=>git commit -m "test_file added"            #to add a file in Repository with messege
