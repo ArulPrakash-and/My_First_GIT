@@ -14,3 +14,10 @@ Create files and add to Respository:
 =>git add test.txt                           #adding a new file
 =>git status                                 #to know the status 
 =>git commit -m "test_file added"            #to add a file in Repository with messege
+=>git push origin main                       #to update a file in VS code to Github 
+=>git pull                                   #to updating a files from VS code to github or github to VS code
+
+After branch creation
+=>git pull                                   #every time we have to update to put this command
+=>git branch                                 #to know the status of branch Where You are
+=>git remote add origin _repos_Link_         #to add the another repository
